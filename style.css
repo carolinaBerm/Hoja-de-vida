@@ -1,0 +1,13 @@
+html {
+    background-color: #FFDDD2;
+    background-image: url(https://i.pinimg.com/564x/99/b1/f2/99b1f2ff8224f202cffb9ecfe79dfc02.jpg);
+    background-size: cover;
+}
+
+
+.collapse-horizontal{
+    text-align: center;
+    width: 25px;
+    height: 30px;
+    
+}
